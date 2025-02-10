@@ -1,6 +1,6 @@
 # Solución de problemas en una base de datos
 
-En este ejercicio adaptaremos una base de datos para poder trabajar con ellos. Trabajaremos con una base de datos extraida del [UCI "Machine Learning Repository"](http://www3.dsi.uminho.pt/pcortez/student.pdf)
+En este ejercicio adaptaremos una base de datos para poder trabajar con ellos. Trabajaremos con una base de datos extraida del ["UCI Machine Learning Repository"](http://www3.dsi.uminho.pt/pcortez/student.pdf)
 
 La base de datos cuenta con la siguiente información:
 * “Escuela”. Indica si el estudiante en cuestión asistía a la escuela Gabriel Pereira (GP) o
